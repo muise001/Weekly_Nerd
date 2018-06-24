@@ -97,7 +97,8 @@ Je kan dan een button bepaalde classes hiervan meegeven waardoor hij er altijd g
 Voor deze Weekly Nerd zijn we afgereisd naar de Schiphol Group. Dit is een gebouw vol met kantoren waar onder andere ook gewerkt wordt aan de website van schiphol. De sprekers waren Isha Gast en Tom. Isha Gast is een front-end developer die zich vooral bezig houdt met accesability. Tom is een blinde man die lessen geeft aan mensen die (pas kort) blind zijn. Deze lessen gaan over hoe je je computer en telefoon kan gebruiken zonder dat je kan zien. 
 
 ## Isha Gast
-> 100% van de mensen heeft een beperking
+> 100% van de mensen heeft een beperking.
+
 Met dit statement begon Isha Gast zijn college. Isha houdt zich dagelijks bezig met accesibilty. Bijna elke dag "valt hij bedrijven" aan via Twitter met tests die hij gerunt heeft op hun website om hiermee te laten zien dat het "accesibility-wise" beter kan. Als het aan Isha Gast ligt moet het web voor iedereen toegankelijk zijn. Met iedereen bedoelt hij ook echt iedereen. Of je nou blind, kleurenblind, spastisch, oud, slecht-ziend, doof of kaal bent, je moet moeiteloos het web kunnen verkennen. Hij gaf ons de volgende tips over kleuren die we "nooit" moeten gebruiken:
   - Lichtblauw
   - Lichtgroen
