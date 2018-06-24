@@ -162,9 +162,37 @@ Ook vertelde hij over leuke patterns mensen hebben ontwikkeld om het web leuker 
     - De "fun login" was een normaal login-venster waar je je e-mail adres en wachtwoord in moest voeren. Alleen stond er een SVG boven. Dat was een ijsbeer. Als je je e-mail invoerde volgde de ogen van de ijsbeer waar je aan het typen was. Daar alleen al word ik vrolijk van. Maar daarna... Als je je wachtwoord invoerde, deed de ijsbeer zijn handen voor zijn ogen. Als je vervolgens op "show password" klikte, deed hij een van zijn handen een beetje open en keek hij door z'n vingers mee.
   - You MUST be 18 to visit this page
     - Een website waar je cigaren kon kopen, moest volgens de wet de geboortedatum vragen aan haar bezoekers om ze door te laten. Deze website had dat gedaan. Alleen waren de invoervelden alvast ingevult. De 34ste dag van de 13de maand uit het jaar 1854. Dit deden ze omdat het hun toch niet uitmaakt wie er op hun site komt, maar het MOEST van de wet.
+    
+#### Storytelling
+Wat belangrijk is aan een website is dat je een verhaal vertelt. Dit kan zelfs op een hele subtiele manier. 
+  - Een chinese website over bomen, gebruikt in plaats van pijljes op de site het icoon van een boompje om dingen aan te wijzen.
+  - Weber wilt op hun website laten zien wat hun Barbeques allemaal kunnen. Dit kan uiteraard met foto's, maar in het kader van storytelling doen ze dit op een andere manier. Ze hebben een interactive 3D animatie gemaakt van hun Barbeques, zodat het voelt alsof je de barbeque bedient en niet de website. 
+  
+> Als je goed nadenkt over een website en echt een verhaal over wilt brengen, dan is het ook veel leuker om deze te gebruiken  
 
 # Bruce Lawson - W3C over webstandards
 ### Inleiding
 Het W3C is een groep mensen die verantwoordelijk zijn voor de taal HTML. Zij bedenken en leggen webstandaarden vast. Bruce Lawson zit bij deze groep. Op de HvA vertelde hij over het begin van standaarden, webstandaarden, kleuren en pornosterren en knakworsten. 
 
-##
+## The beginning of the web......... Standards
+##### De Piano
+Vroeger voordat het web er was, had je piano's. Huh? Ja, piano's. Niet zomaar piano's, maar piano's die zelf speelden. Net als een draaiorgel, speelde die muziek af via gaten in papier. Fascinerend. Wat was nou het probleem? Niet elke piano-roll werkte op elke piano. Dat kwam omdat het ene bedrijf smaller papier gebruikte dan andere bedrijven. Daarom moest je dus voor het ene liedje die piano hebben en voor een ander liedje die andere. Daar moest verandering in komen, vonden vele gebruikers.
+
+Die verandering kwam er. De bedrijven die die piano-rolls maakte, regelde een vergadering. Hierin bespraken ze hoe breed, dik en hoe groot de gaten moesten zijn in de piano-rolls om het op elke piano te kunnen afspelen.
+
+##### De Trein
+Jaren later, toen niemand meer zo'n piano had. Had je hetzelfde probleem met treinrails. Elk land in West-Europa had treinen en treinrails, maar niet elke trein paste op elk spoor. In Engeland hadden ze bijvoorbeeld het spoor de breedte gegeven van twee paarden. In andere delen van Europa hadden ze andere maatstaven gebruikt. Hierdoor kwam het wel eens voor dat treinen bij de grens volledig overgetilt moesten worden om verder te kunnen rijden. Uitendelijk hebben ze opgelost door standaarden te stellen.
+
+Hetzelfde gold voor het web. In het begin van het web was het een zooitje. Hier moest verandering inkomen. Daardoor is het W3C gesticht. 
+
+## Not quite standard yet...
+Patenten. We mogen het er eigenlijk niet over hebben, maar door het gebruik van patenten kunnen veel websites bepaalde functionaliteiten niet gebruiken. Amazon had een belangrijk patent. ["The single click checkout"](https://en.wikipedia.org/wiki/1-Click). Dit patent was in het leven geroepen om het betalen en invullen van gegevens makkelijker temaken. Als je was ingelogd en je wilde iets kopen, hoefde je maar op één knop te drukken en de volgende dag lag het in je brievenbus. Geweldig. 
+
+Dit pattern die bedacht is door Amazon, was een pattern die meerdere webshops wilde gebruiken. Helaas laat de wet dat niet toe. Dit zorgt voor een automatiserings-achterstand bij andere webwinkels. 
+
+> The biggest enemy of the web-standards is patents
+Bruce Lawson
+
+##### Opera
+Bruce is een tijd werkzaam geweest bij de internetbrowser "Opera". Hier hadden ze de regel dat je het nooit en te nimmer mocht hebben over patenten. Deze regel was in het leven geroepen door (wederom) de wet. In de wet staat namelijk dat als je een patent toch gebruikt zonder dat je daar toestemming voor hebt, een boete moet betalen. Is het zo dat je wist dat het patent bestond, maar het evengoed gebruikte zonder toestemming, dan moest je 3x de waarde van die boete betalen. Hierdoor mocht je niet e-mailen over patenten, praten over patenten en eigenlijk niet eens denken aan patenten.
+
