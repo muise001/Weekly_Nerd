@@ -43,6 +43,8 @@ Het stappenplan hierboven geeft in grote lijnen aan hoe Github werkt. Git is een
    - ISC
    - LGPL
    
+![Sketchnotes Github](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/github.JPG)
+   
 > Bron : [aantal gebruikers Github](https://www.quora.com/How-many-users-does-GitHub-have) 
    
 # Weekly Geek @ Tam/Tam
@@ -81,6 +83,8 @@ HTML en ITCSS werken samen. ITCSS staat voor : "Inverted Triangle CSS" en moet e
 ``` 
 Je kan dan een button bepaalde classes hiervan meegeven waardoor hij er altijd goed uit blijft zien. Er zouden ook andere classes in kunnen zoals `.smallButton` `.fixedRight` etc. Zolang de classnames maar duidelijk genoeg zijn.
 
+![ITCSS](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/itcss.png)
+
 ## Een (part-time) weekje Tam/Tam - Walibi project
 
 |MA|DI|WO|DO|
@@ -89,6 +93,8 @@ Je kan dan een button bepaalde classes hiervan meegeven waardoor hij er altijd g
 |Dev Meeting|Start Front-end setup|fe-shelf|testers|
 |Inschattingen doen|Trello board opzetten|Accesibility check|domibo|
 |||stand-up||
+
+![Sketchnotes Tam/Tam](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/tamtam.JPG)
 
 > ITCSS extra informatie : [xfive.co](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 
@@ -136,3 +142,5 @@ Nadat Tom klassikaal de website Dumpert bezocht, gaf hij nog een aantal tips:
   - Voice Over op de iPhone werkt ontzettend goed
   - Autoplay voor filmpjes is een slecht idee
     - Aangezien filmpjes audiovisueel zijn en de screenreader voorleest, is het moeilijk om de pauzeknop te vinden, omdat een filmpje door je screenreader heen praat.
+    
+![Scetchnotes SchipholGroup](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/schiphol.JPG)
