@@ -191,10 +191,14 @@ Patenten. We mogen het er eigenlijk niet over hebben, maar door het gebruik van 
 
 Dit pattern die bedacht is door Amazon, was een pattern die meerdere webshops wilde gebruiken. Helaas laat de wet dat niet toe. Dit zorgt voor een automatiserings-achterstand bij andere webwinkels. 
 
-> The biggest enemy of the web-standards is patents
-Bruce Lawson
+> The biggest enemy of the web-standards is patents - Bruce Lawson
 
 ##### Opera
 Bruce is een tijd werkzaam geweest bij de internetbrowser "Opera". Hier hadden ze de regel dat je het nooit en te nimmer mocht hebben over patenten. Deze regel was in het leven geroepen door (wederom) de wet. In de wet staat namelijk dat als je een patent toch gebruikt zonder dat je daar toestemming voor hebt, een boete moet betalen. Is het zo dat je wist dat het patent bestond, maar het evengoed gebruikte zonder toestemming, dan moest je 3x de waarde van die boete betalen. Hierdoor mocht je niet e-mailen over patenten, praten over patenten en eigenlijk niet eens denken aan patenten.
 
 ![Sketchnotes Bruce Lawson](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/w3c.JPG)
+
+# Einde
+Bedankt dat je de tijd hebt genomen om dit verslag door te lezen. Hopelijk heb je net zo van het lezen genoten als ik van het bijwonen van deze lezingen en het schrijven van dit verslag. Helaas heb ik niet de Weekly Nerd van de Hacketon erin. Dit komt om dat ik helaas niet aanwezig kon zijn op de Hacketon ivm herkansingen. Des al niet te min hoop ik dat ik het op deze manier goed heb opgelost. En nogmaals bedankt voor het lezen.
+
+> Emiel Muis
