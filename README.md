@@ -169,6 +169,7 @@ Wat belangrijk is aan een website is dat je een verhaal vertelt. Dit kan zelfs o
   - Weber wilt op hun website laten zien wat hun Barbeques allemaal kunnen. Dit kan uiteraard met foto's, maar in het kader van storytelling doen ze dit op een andere manier. Ze hebben een interactive 3D animatie gemaakt van hun Barbeques, zodat het voelt alsof je de barbeque bedient en niet de website. 
   
 > Als je goed nadenkt over een website en echt een verhaal over wilt brengen, dan is het ook veel leuker om deze te gebruiken  
+![Sketchnotes Smashing](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/smashing.JPG)
 
 # Bruce Lawson - W3C over webstandards
 ### Inleiding
@@ -196,3 +197,4 @@ Bruce Lawson
 ##### Opera
 Bruce is een tijd werkzaam geweest bij de internetbrowser "Opera". Hier hadden ze de regel dat je het nooit en te nimmer mocht hebben over patenten. Deze regel was in het leven geroepen door (wederom) de wet. In de wet staat namelijk dat als je een patent toch gebruikt zonder dat je daar toestemming voor hebt, een boete moet betalen. Is het zo dat je wist dat het patent bestond, maar het evengoed gebruikte zonder toestemming, dan moest je 3x de waarde van die boete betalen. Hierdoor mocht je niet e-mailen over patenten, praten over patenten en eigenlijk niet eens denken aan patenten.
 
+![Sketchnotes Bruce Lawson](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/w3c.JPG)
