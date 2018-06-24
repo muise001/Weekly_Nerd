@@ -10,7 +10,7 @@ Welkom op de weekly nerd pagina van mijn github. Afgelopen half jaar hebben we w
   - Bruce Lawson - Web Standards 
   
   
-  # Git en Github
+# Git en Github
   ### Inleiding
   De weekly nerd over git, github en het verschil ertussen werd gegeven op 14 februari door Titus Wormer op de HvA. Ik had zelf al eerder met github gewerkt, maar ik wist er weinig vanaf. Dit college gaf me meer inzicht over samenwerken via github, open source en licenties.
   
@@ -43,4 +43,14 @@ Het stappenplan hierboven geeft in grote lijnen aan hoe Github werkt. Git is een
    - ISC
    - LGPL
    
-   
+# Weekly Geek @ Tam/Tam
+
+### Inleiding
+Tam/Tam is een vrij groot internetbedrijf met meerdere kantoren. Een van hun vestigingen zit in Amsterdam en de andere vestiging zit in Rotterdam. Tam/Tam vertelde over hun werkwijze, code-setup en over DEPT. DEPT, een online agency is in het leven geroepen door Tam/Tam. DEPT moet je zien als een samenwerking tussen meerdere grote bedrijven door de hele EU. Op het moment zijn er 13 bedrijven aangesloten bij DEPT. Deze zijn vooral te vinden in het Verenigde Koninkrijk, Nederland en Duitsland. Het doel van DEPT is om ALLES te kunnen leveren op internet-gebied. Denk aan VR, AR, IOT, Online Marketing en natuurlijk "gewoon speciale" websites. DEPT heeft al vele grote klanten gehad. Denk aan de Rabobank, ebay, Walibi, Tui, Tom Tom, KLM, Microsoft, Adidas, Zalando, KPN, G-Star en vele anderen. Tam/Tam zelf houdt zich vooral bezig met Front-end.
+
+## Werkwijze Tam/Tam
+Tam/Tam heeft al veel ervaring in het werkveld. Hierdoor hebben ze een soort formule bedacht waarmee ze aan elke website beginnen. Een van hun setups ziet er als volgt uit:
+  - HTML      - Samen met nunjucks
+  - JS        - ES6 Modulair opgesteld
+  - SCSS      - ITCSS
+  - Webpacks  - gulp en webpack
