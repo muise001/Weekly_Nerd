@@ -43,6 +43,8 @@ Het stappenplan hierboven geeft in grote lijnen aan hoe Github werkt. Git is een
    - ISC
    - LGPL
    
+Bron : [aantal gebruikers Github](https://www.quora.com/How-many-users-does-GitHub-have) 
+   
 # Weekly Geek @ Tam/Tam
 
 ### Inleiding
@@ -54,3 +56,38 @@ Tam/Tam heeft al veel ervaring in het werkveld. Hierdoor hebben ze een soort for
   - JS        - ES6 Modulair opgesteld
   - SCSS      - ITCSS
   - Webpacks  - gulp en webpack
+
+HTML en ITCSS werken samen. ITCSS staat voor : "Inverted Triangle CSS" en moet een soort template CSS worden voor de HTML. Je gebruikt hierbij grote duidelijke class-names die een element altijd hetzelfde stijlen. Zo kan je bijvoorbeeld een setup hebben zoals :
+  ```
+  .bigButton{
+    width: 50%;
+    Font-size 2rem;
+    padding: 1rem 0;
+    border: 3px solid black;
+  }  
+  
+  .bgColorRed{
+    background-color: red;
+  }
+  
+   .bgColorBlue{
+    background-color: red;
+  }
+  
+  .fixedLeft {
+    position: fixed;
+    left: 0
+  }
+``` 
+Je kan dan een button bepaalde classes hiervan meegeven waardoor hij er altijd goed uit blijft zien. Er zouden ook andere classes in kunnen zoals `.smallButton` `.fixedRight` etc. Zolang de classnames maar duidelijk genoeg zijn.
+
+## Een (part-time) weekje Tam/Tam - Walibi project
+
+|MA|DI|WO|DO|
+|:-:|:-:|:-:|:-:|
+|MAMO (Maandagochtend Meeting)|Kickoff|Beginnen Basics|Klant komt langs|
+|Dev Meeting|Start Front-end setup|fe-shelf|testers|
+|Inschattingen doen|Trello board opzetten|Accesibility check|domibo|
+|||stand-up||
+
+ITCSS informatie : [xfive.co](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
