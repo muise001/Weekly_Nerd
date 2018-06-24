@@ -144,3 +144,27 @@ Nadat Tom klassikaal de website Dumpert bezocht, gaf hij nog een aantal tips:
     - Aangezien filmpjes audiovisueel zijn en de screenreader voorleest, is het moeilijk om de pauzeknop te vinden, omdat een filmpje door je screenreader heen praat.
     
 ![Scetchnotes SchipholGroup](https://github.com/muise001/Weekly_Nerd/blob/master/Sketchnotes/schiphol.JPG)
+
+# Smashing Magazine @ ICONS Meeting
+### Inleding
+De desginer van de [Smashing Magazine](https://www.smashingmagazine.com/) website kwam op de HvA vertllen over patterns op het web, de website van Smashing en hoe je een website "Pleasureable" kan maken. 
+
+## Make boring interesting
+Wat de deginer van Smashing vertelde is dat niet elke website _plat_ of _saai_ hoeft te zijn. De website van Smashing zit vol met "leuke" features. Zo is er op elke pagina wel een kat te vinden, zijn er legio animaties, zijn de forms klantvriendelijk, zijn er custom focus states en is er een coupon voor iedereen. De laatste vond ik het leukst. Hij vertelde dat veel mensen (waaronder ik) altijd bij het bestellen van producten op internet eerst Google afspeur om ook maar de kleinste korting te krijgen. Vaak resulteerd dit in een uur Googlen en geen of een verlopen coupon. Daar hebben ze bij Smashing iets op gevonden. Stel je voert een ongeldige over verlopen coupon in, dan komt er onder het coupon vlakje een section te staan waarin staat "This coupon looks __Fishy__, Why don't you try the coupon-code __Fishy__ instead. Vervolgens voer je "Fishy" in als coupon-code en je krijgt 1% korting. 
+
+Het gaat ook niet per se om de korting. Het gaat om het gevoel dat je gewonnen van het systeem, door korting te krijgen terwijl je het eigenlijk niet verdient. 
+
+#### Fun patterns
+Ook vertelde hij over leuke patterns mensen hebben ontwikkeld om het web leuker te maken. Hieronder volgt een lijstje van voorbeelden die hij gaf.
+  - Creative Popup
+    - Niets op een website is zo irritant als een Popup. Daar hebben ze op de website van het [Volkshotel](https://www.volkshotel.nl/nl/) iets op gevonden. De popup is namelijk een hand die een bordje vasthoudt en je muis volgt. Dit ziet er grappig uit en het voelt niet als een popup.
+  - Funny Login  
+    - De "fun login" was een normaal login-venster waar je je e-mail adres en wachtwoord in moest voeren. Alleen stond er een SVG boven. Dat was een ijsbeer. Als je je e-mail invoerde volgde de ogen van de ijsbeer waar je aan het typen was. Daar alleen al word ik vrolijk van. Maar daarna... Als je je wachtwoord invoerde, deed de ijsbeer zijn handen voor zijn ogen. Als je vervolgens op "show password" klikte, deed hij een van zijn handen een beetje open en keek hij door z'n vingers mee.
+  - You MUST be 18 to visit this page
+    - Een website waar je cigaren kon kopen, moest volgens de wet de geboortedatum vragen aan haar bezoekers om ze door te laten. Deze website had dat gedaan. Alleen waren de invoervelden alvast ingevult. De 34ste dag van de 13de maand uit het jaar 1854. Dit deden ze omdat het hun toch niet uitmaakt wie er op hun site komt, maar het MOEST van de wet.
+
+# Bruce Lawson - W3C over webstandards
+### Inleiding
+Het W3C is een groep mensen die verantwoordelijk zijn voor de taal HTML. Zij bedenken en leggen webstandaarden vast. Bruce Lawson zit bij deze groep. Op de HvA vertelde hij over het begin van standaarden, webstandaarden, kleuren en pornosterren en knakworsten. 
+
+##
