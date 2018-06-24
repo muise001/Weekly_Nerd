@@ -43,7 +43,7 @@ Het stappenplan hierboven geeft in grote lijnen aan hoe Github werkt. Git is een
    - ISC
    - LGPL
    
-Bron : [aantal gebruikers Github](https://www.quora.com/How-many-users-does-GitHub-have) 
+> Bron : [aantal gebruikers Github](https://www.quora.com/How-many-users-does-GitHub-have) 
    
 # Weekly Geek @ Tam/Tam
 
@@ -90,4 +90,48 @@ Je kan dan een button bepaalde classes hiervan meegeven waardoor hij er altijd g
 |Inschattingen doen|Trello board opzetten|Accesibility check|domibo|
 |||stand-up||
 
-ITCSS informatie : [xfive.co](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+> ITCSS extra informatie : [xfive.co](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+
+# Ischa Gast en Tom @ Schiphol Group
+### Inleiding
+Voor deze Weekly Nerd zijn we afgereisd naar de Schiphol Group. Dit is een gebouw vol met kantoren waar onder andere ook gewerkt wordt aan de website van schiphol. De sprekers waren Isha Gast en Tom. Isha Gast is een front-end developer die zich vooral bezig houdt met accesability. Tom is een blinde man die lessen geeft aan mensen die (pas kort) blind zijn. Deze lessen gaan over hoe je je computer en telefoon kan gebruiken zonder dat je kan zien. 
+
+## Isha Gast
+> 100% van de mensen heeft een beperking
+Met dit statement begon Isha Gast zijn college. Isha houdt zich dagelijks bezig met accesibilty. Bijna elke dag "valt hij bedrijven" aan via Twitter met tests die hij gerunt heeft op hun website om hiermee te laten zien dat het "accesibility-wise" beter kan. Als het aan Isha Gast ligt moet het web voor iedereen toegankelijk zijn. Met iedereen bedoelt hij ook echt iedereen. Of je nou blind, kleurenblind, spastisch, oud, slecht-ziend, doof of kaal bent, je moet moeiteloos het web kunnen verkennen. Hij gaf ons de volgende tips over kleuren die we "nooit" moeten gebruiken:
+  - Lichtblauw
+  - Lichtgroen
+  - Oranje
+  - Wit op Oranje
+Hij vertelde ook dat wat wij zien totaal niet representatief is voor bijvoorbeeld kleurenblinden. Kijk bijvoorbeeld naar de ING website. De hele site is oranje en "call-to-action buttons" zijn vaak oranje met een witte tekst. Voor niet-kleurenblinden mensen een prima contrast, maar voor wel-kleurenblinden mensen onsleesbaar. 
+
+### Tips en Tools
+In het kader van "Het web een betere plek maken voor iedereen", gaf Isha Gast ons een tips en tools die accesibility-wise noodzakelijk zijn.
+- Tips
+  - Focus state 
+    - Een custom focus-state is heel belangrijk voor slecht-zienden en kleurenblinden mensen. Dat komt omdat bijvoorbeeld de lichtblauwe kleur van de default focus-state van google chrome voor hen slecht te zien is
+  - Headers
+    - Headers zijn ook belangrijk. Niet alleen voor de semantiek van de code of pagina, maar ook voor blinden. Screenreaders lezen namelijk de Headers voor en bieden headers aan als navigatie
+  - Kleur contrast optimaliseren voor kleurenblinden en slecht-zienden
+  - Skip to content button
+    - Een skip to content button is belangrijk voor blinden en mensen die moeite hebben om een muis te gebruiken. Deze mensen gebruiken namelijk van de "tab" knop. Door een "skip to content knop" toe te voegen, hoeven mensen bijvoorbeeld niet 300x te tabben voordat ze bij hetgene zijn waar ze voor komen op de website.
+    
+- Tools
+  - Colour Contrast Analyser
+    - Dit is een tool die de contrasten van een website meet. Hij heeft aan of een kleur goed te zien is voor kleurenblinden, maar ook of bepaalde contrasten goed werken. 
+  - Funkify
+    - Funkify is een hele goede tool waarbij je allemaal scenario's kan naspelen op een website. Zo kan je bijvoorbeeld Dyslectie "aanzetten" waardoor letters in een woord steeds van positie veranderen, "Elderly-Mode" om de hele website een beetje blurry te maken, "Zonlicht-Mode" om het contrast te creeëren alsof er een hele velle zon op je scherm schijnt en vele anderen. Door deze tools te gebruiken kan je rekening houden met de scenario's die deze toel biedt. Bij "zonlicht-mode" kan je er bijvoorbeeld voor zorgen dat je headers groter of dikker worden, zodat ze altijd goed te zien zijn, Bij "Elderly-mode" kan je bijvoorbeeld zien of je lettertype groot genoeg is etc.
+    
+## Tom
+Tom is een blinde man vanaf zijn geboorte. Hij vertelde dat hij altijd veel met computers had gewerkt. Hij was erg fan van MS-Dos. Dit is een command-line taal waarbij je alleen tekst hoefde in te voeren en tekst terug kreeg. Het was voor hem een kwestie van commands uit je hoofd leren en klaar. Tegenwoordig zijn computers niet meer "Tekst-based", maar "Visual-based". Dit was voor Tom een moeilijke switch. Gelukkig kwam er al snel screenreader-compattibility. Hierdoor kon hij alsnog werken op een computer omdat alles voor hem werd voorgelezen. Voor hem en eigenlijk alle andere blinden is het cruciaal dat je sneltoetsen kan gebruiken. Hij gaf het voorbeeld van Microsoft Word. Hij vond dit een fijn programma om te gebruiken. Dit komt hij alles kan benaderen met sneltoetsen. Hij zou het ook fijn vinden als er sneltoetsen of "skip-to-content" knoppen kwamen op websites.
+
+Nadat Tom klassikaal de website Dumpert bezocht, gaf hij nog een aantal tips:
+  - Headers altijd boven het plaatje
+    - Hierdoor weet je waar het plaatje over gaat en kan er geen verwarring komen over welke titel hoort bij welk plaatje
+  - Headers zijn heel belangijk
+    - Screenreaders kunnen navigeren door headers. Het is dus belangrijk dat titels H1 zijn en subtitels H2. Als je alles H1 maakt, weet Tom niet meer wat nou wel belangrijk is en wat niet. 
+  - Labels bij inputs in forms
+    - Labels zijn belangrijk omdat Tom dan tehoren krijgt wat er gevraagd wordt bij een input-veld
+  - Voice Over op de iPhone werkt ontzettend goed
+  - Autoplay voor filmpjes is een slecht idee
+    - Aangezien filmpjes audiovisueel zijn en de screenreader voorleest, is het moeilijk om de pauzeknop te vinden, omdat een filmpje door je screenreader heen praat.
